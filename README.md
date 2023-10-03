@@ -1,2 +1,3 @@
-# bookstore
-Javascript Bookstore - OneBitCode Exercise
+# Bookstore Javascript
+
+OneBitCode Exercise
